@@ -7,12 +7,12 @@ There are .py files which needs you to clone this project in your system. Instal
 
 For GA:<br/>
 `pip install deap` <br/>
-`python Genetic_Algorithm-NN.py` <br/>
+`python genetic_algorithm-nn.py` <br/>
 
 For BO:<br/>
 `pip install bayesian-optimization`<br/>
 `pip install gpy gpyopt`<br/>
-`python Bayesian_optimization-NN.py`<br/>
+`python bayesian_optimization-nn.py`<br/>
 
 Make sure you have the latest version of python installed in your system.
 
