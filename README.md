@@ -5,14 +5,14 @@ The github folder consists of 4 files which contains both, the implementation of
 
 There are .py files which needs you to clone this project in your system. Installations are specified below:
 
-For GA:
-`pip install deap`
-`python Genetic_Algorithm-NN.py` 
+#For GA:
+##`pip install deap`
+##`python Genetic_Algorithm-NN.py` 
 
-For BO:
-`pip install bayesian-optimization`
-`pip install gpy gpyopt`
-`python Bayesian_optimization-NN.py`
+#For BO:
+##`pip install bayesian-optimization`
+##`pip install gpy gpyopt`
+##`python Bayesian_optimization-NN.py`
 
 Make sure you have the latest version of python installed in your system.
 
