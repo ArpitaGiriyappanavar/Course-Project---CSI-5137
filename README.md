@@ -9,7 +9,7 @@ For GA:
 pip install deap
 
 /* run the code */
-python Genetic_Algorithm-NN.py 
+#python Genetic_Algorithm-NN.py 
 
 For BO:
 /* install bayesian-optimization library */
